@@ -1,0 +1,21 @@
+
+{
+  "name": "pixel-reference-importer",
+  "displayName": "Импортёр пиксельного референса",
+  "description": "Импорт PNG-референсов с созданием редактируемой пиксельной основы",
+  "version": "0.1.0",
+  "author": {
+    "name": "IhorShvachka"
+  },
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./pixel-reference-importer.lua"
+      }
+    ]
+  }
+}
